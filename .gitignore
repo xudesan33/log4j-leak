@@ -1,0 +1,8 @@
+# Project exclude paths
+/log4j-all/target/
+/log4j-rmi/target/
+/log4j-website/target/
+
+.idea
+
+*.iml
